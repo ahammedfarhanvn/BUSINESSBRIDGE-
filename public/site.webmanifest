@@ -1,0 +1,8 @@
+{
+  "name": "BusinessBridge",
+  "short_name": "BusinessBridge",
+  "icons": [],
+  "theme_color": "#0b1f3a",
+  "background_color": "#f8fafc",
+  "display": "standalone"
+}
